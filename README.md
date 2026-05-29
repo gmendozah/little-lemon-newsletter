@@ -1,11 +1,7 @@
 # 🍋 Little Lemon Newsletter Sign-Up
-
-This is the newsletter subscription mobile application for Little Lemon, a local Mediterranean Bistro.
+A React Native application that allows users to sign up for the Little Lemon restaurant newsletter to stay updated with the latest delicious recipes, menus, and special offers. It implements clean visual layouts, user input text fields with validation logic, native alert messaging, and navigation flow between screens.
 
 ![](little_lemon.gif)
-
-## 📝 Description
-A React Native application that allows users to sign up for the Little Lemon restaurant newsletter to stay updated with the latest delicious recipes, menus, and special offers. It implements clean visual layouts, user input text fields with validation logic, native alert messaging, and navigation flow between screens.
 
 ## ✨ Features
 - **Welcome Screen**: Displays the Little Lemon brand logo, a welcoming message, and a call-to-action button to navigate to the newsletter subscription page.
